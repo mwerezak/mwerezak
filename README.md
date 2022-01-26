@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<--
 ![Github Scorecard](https://github-readme-stats.vercel.app/api?username=mwerezak&show_icons=true&theme=radical&hide=stars,issues&count_private=true)
+-->
 
 <!--
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=mwerezak&show_icons=true&theme=radical)
